@@ -1,2 +1,5 @@
 # leetcode-practice
+
  from leetcode，as individual study
+
+第一次修改的内容，提交后查看。
